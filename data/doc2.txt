@@ -1,0 +1,3 @@
+Vector databases store numerical embeddings of text.
+They enable semantic similarity search by comparing vector distances.
+Common vector databases include Chroma, Pinecone, Qdrant, and Weaviate.

@@ -1,0 +1,2 @@
+Embeddings convert text into dense numerical vectors.
+These vectors capture semantic meaning and are used for similarity search in RAG pipelines.

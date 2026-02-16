@@ -1,0 +1,2 @@
+A typical RAG pipeline includes document ingestion, chunking, embedding, vector storage,
+retrieval of relevant context, and final answer generation using an LLM.
