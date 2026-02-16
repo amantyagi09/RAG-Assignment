@@ -17,5 +17,16 @@ The application ingests local text documents, indexes them using a vector databa
 
 1. **Clone the repository:**
    ```bash
-   git clone <>
+   git clone https://github.com/amantyagi09/RAG-Assignment.git
    cd <your-project-folder>
+   
+2. **Install the dependencies**
+   ```bash
+   pip install -r requirements.txt
+   
+3. **Environment Setup:**
+   Create a .env file in the root directory and add your API key.
+   
+5. **Data Preparation:**
+   
+   
